@@ -1,0 +1,151 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    width: 100%;
+    background-color: #3A5795;
+    height: 80px;
+}
+section{
+    background-color: #222;
+    font-family: corbel;
+    width: 100%;
+    margin-top: 10px;
+  
+}
+                    .logo{
+                     font-family: corbel;
+                     font-size: 3em;
+                     color: #fff;
+                     padding: 5px;
+                     display: inline-block;
+                     position: relative;
+                        top: 5px;
+                        right: 2px;
+                        margin-left: 140px;
+                        width: 170px;
+                        height: 17px;
+                        font-weight: bold;
+                    }
+                    .signin{
+                        float: right;
+                        padding: 10px;
+                    }
+                    .inputtext{
+                        position: relative;
+                        top: 20px;
+                        right: 48px;
+                        padding: 2px;
+                        margin-right: 5px;
+                        width: 170px;
+                        height: 17px;
+                    }
+                    .login{
+                        background-color: #5B74A8;
+                        color: #fff;
+                        top: 20px;
+                        position: relative;
+                        border: none;
+                        padding: 3px;
+                        width: 60px;
+                        right: 48px;
+                        border-bottom-left-radius: 5px;
+                        border-bottom-right-radius: 5px;
+                        border-top-left-radius: 5px;
+                        border-top-right-radius: 5px;
+                    }
+                    small{
+                        position: relative;
+                        bottom: 5px;
+                        left: 205px;
+                        color: #fff;
+                        font-family: corbel;
+                        font-size: 1em;
+                    }
+                    .small2{
+                         position: relative;
+                        bottom: 5px;
+                        left: 122px;
+                        color: #fff;
+                        font-family: corbel;
+                        font-size: 1em;
+                    }
+                    .main_trash{
+                        width: 45%;
+                        padding: 20px;
+                        float: left;
+                        position: relative;
+                        top: 60px;
+                        left: 130px;
+                    }
+                    .main_signup{
+                        width: 50%;
+                        float: right;
+                        padding: 5px;
+                        position: relative;
+                        top: 60px;
+                        left: 90px;
+                      
+                    }
+                   .main_signup li{
+                    list-style: none;
+                   }
+                   .txt-jnt li{
+                    display: inline-block;
+                   }
+                   .txt-jnt input{
+                    width: 200px;
+                    padding: 10px;
+                    margin: 3px;
+                    height: 15px;
+                    font-size: 1.0em;
+                   }
+                   .text input{
+                    width: 434px;
+                    padding: 10px;
+                    margin: 3px;
+                    height: 15px;
+                    font-size: 1.0em;
+                   }
+                    .clear-inline
+                    {
+                        display: inline-block;
+                    }
+                   .new_input input{
+                     width: 434px;
+                    padding: 10px;
+                    margin: 3px;
+                    height: 15px;
+                    font-size: 1.2em;
+                   }
+                   .link{
+                    font-size: 0.7em;
+                   }
+                   .head{
+                    font-size: 1.8em;
+                    margin-bottom: 5px;
+                   }
+                   hgroup{
+                    font-size: 1.2em;
+                    position: relative;
+                        left: 80px;
+                   }
+                   .default_wrd{
+                    color: #8080ff;
+                    font-size: 1.5em;
+                    padding-top: 100px;
+                   }
+                   
+                   .pix_1{
+                    height: 120px;
+                   }
+                   .btm_signup{
+                    position: relative;
+                    padding: 5px;
+                    border-top: solid 2px #eee;
+                   }
+                   
+                  .pix_1 :hover{
+                    color: #8080ff;
+                  }
